@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+sitemap: https://your-username.github.io/sylla-food-house/sitemap.xml
