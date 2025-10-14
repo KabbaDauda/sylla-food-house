@@ -1,1 +1,1 @@
-Teat push authorization
+Test push authorization
